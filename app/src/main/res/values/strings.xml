@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Pets</string>
+    <string name="txtMascota">Collie</string>
+    <string name="countLikes">3</string>
+    <string name="txtMascotas">Natural Pets</string>
+    <string name="txtFavoritos">Favorites Pets</string>
+    <string name="text_view_acercaDeEncabezado">About...</string>
+    <string name="text_view_acercaDeEstudio">Developer Software Android Studio</string>
+    <string name="text_view_acercaDeCiudad">City: Medellín-Colombia</string>
+    <string name="text_view_acercaDeDesarrollador">Developer: Andrés Echavarría</string>
+    <string name="text_input_nombre">Name:</string>
+    <string name="text_input_correo">Email:</string>
+    <string name="text_input_mensaje">Messages:</string>
+    <string name="text_view_contactoTitulo">Contact us!</string>
+    <string name="text_view_contactoMensaje">Send us an email and we will communicate</string>
+    <string name="button_enviar_comentario">Send</string>
+    <string name="Contactos">Contacts</string>
+    <string name="acercaDe">About</string>
+    <string name="año">2020</string>
+</resources>
